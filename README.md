@@ -1,7 +1,3 @@
-## Hi, I'm Julio 👋
-
-Fullstack developer
-IT Support Technician
 # 💫 About Me:
 ## Hi, I'm Julio 👋<br><br>Fullstack developer<br>IT Support Technician<br>
 
